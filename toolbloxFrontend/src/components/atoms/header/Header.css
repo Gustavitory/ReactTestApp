@@ -1,0 +1,10 @@
+.HeaderCont{
+    background: rgb(254, 91, 91);
+    margin: 0;
+    padding:.8em .1em;
+    color:white;
+    font-weight: 900;
+}
+.HeaderCont p{
+    margin:0;
+}

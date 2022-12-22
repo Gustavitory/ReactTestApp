@@ -1,0 +1,10 @@
+.PanelSelectFileCont{
+    list-style: none;
+    display: grid;
+    padding: 1em;
+    margin:0;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 2em;
+    align-items:center ;
+    justify-content: center;
+}

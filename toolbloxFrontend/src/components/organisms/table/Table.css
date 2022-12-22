@@ -1,0 +1,4 @@
+.noSelection{
+    display: flex;
+    flex-direction: column;
+}

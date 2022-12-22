@@ -1,0 +1,16 @@
+.selectFile{
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    padding:1em;
+    border-radius: .5em;
+    transition: .5s;
+}
+.selectFile.selectFileActive{
+    box-shadow: 5px 5px 10px rgb(225, 225, 225);
+    background:rgb(109, 173, 195);
+    color: white;
+}
+.selectFile p{
+    margin:0;
+}
