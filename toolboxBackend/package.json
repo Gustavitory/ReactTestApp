@@ -1,0 +1,21 @@
+{
+  "name": "toolboxback",
+  "version": "1.0.0",
+  "description": "Servidor de la aplicacion de tareas desarrollada por Gustavo Riera",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gustavo Riera",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.19"
+  }
+}
